@@ -43,6 +43,6 @@ function getMessage() public view returns(string memory) {
 
 ## Araçlar
 
-
+Solidity kodlayabilmek için Visual Studio Code ve online Etherum IDE olan Remix kullanılmıştır. Remix Solidity üzerine kullanımı oldukça kolay bir editör.
 ## İş Dağılımı
 
