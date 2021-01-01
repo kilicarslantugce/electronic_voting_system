@@ -47,7 +47,7 @@ Solidity kodlayabilmek için Visual Studio Code ve online Etherum IDE olan Remix
 ## İş Dağılımı
 | Kişi        | Saat Yüzdesi         |
 | ------------- |:-------------:|
-|Çağrı     | %40 |
+|Çağrıhan  | %40 |
 |Tuğçe     |%60 |
 
 
