@@ -45,4 +45,10 @@ function getMessage() public view returns(string memory) {
 
 Solidity kodlayabilmek için Visual Studio Code ve online Etherum IDE olan Remix kullanılmıştır. Remix Solidity üzerine kullanımı oldukça kolay bir editör.
 ## İş Dağılımı
+| Kişi        | Saat Yüzdesi         |
+| ------------- |:-------------:|
+|Çağrı     | %40 |
+|Tuğçe     |%60 |
+
+
 
