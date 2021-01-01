@@ -1,5 +1,9 @@
 # Blockchain Tabanlı Dijital Oy Verme Sistemi:Tasarımı ve Güvenlik Analizi Gelişim Raporu 2
 
+Projenin ilk gelişim raporundan sonraki geçen sürede gantt chartda belirttiğimiz üzere literature review ve methodology kısımları üzerine çalışılmıştır.
+Literature review için yapılan araştırmaların raporlaması [Literature Review](https://github.com/kilicarslantugce/electronic_voting_system/blob/main/literatureReview.md) dosyasında belirtilmiştir.
+
+
 ## Kaynaklar
 
 https://remix-ide.readthedocs.io/en/latest/solidity_editor.html
