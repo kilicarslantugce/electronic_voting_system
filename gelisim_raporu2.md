@@ -4,13 +4,6 @@ Projenin ilk gelişim raporundan sonraki geçen sürede gantt chartda belirttiğ
 Literature review için yapılan araştırmaların raporlaması [Literature Review](https://github.com/kilicarslantugce/electronic_voting_system/blob/main/literatureReview.md) dosyasında belirtilmiştir.
 
 
-## Kaynaklar
-
-https://remix-ide.readthedocs.io/en/latest/solidity_editor.html
-https://www.youtube.com/watch?v=OsWsJEZ9koE&list=PLDq-6McXyzTNlaJ5hCFvLdC_x6zryhl7S
-
-Düzenlenecek
-
 ## Zorluklar
 
 Solidity programlama dilini ilk kez öğrendiğimiz için sıfırdan syntax ve kurallar ile ilgili bir araştırmamız oldu.
@@ -44,15 +37,21 @@ function getMessage() public view returns(string memory) {
 }
 
 ```
-
+[1]
 ## Araçlar
 
-Solidity kodlayabilmek için Visual Studio Code ve online Etherum IDE olan Remix kullanılmıştır. Remix Solidity üzerine kullanımı oldukça kolay bir editör.
+Solidity kodlayabilmek için Visual Studio Code ve online Etherum IDE olan Remix[2] kullanılmıştır. Remix Solidity üzerine kullanımı oldukça kolay bir editör.
+
 ## İş Dağılımı
+
 | Kişi        | Saat Yüzdesi         |
 | ------------- |:-------------:|
 |Çağrıhan  | %40 |
 |Tuğçe     |%60 |
 
+## Kaynaklar
 
+**[1]** Hasan Özgür Güçlü (2020).[online]. Website https://www.youtube.com/watch?v=OsWsJEZ9koE&list=PLDq-6McXyzTNlaJ5hCFvLdC_x6zryhl7S [erişim 22 Aralık 2020]. 
+
+**[2]** Remix (2020). [online]. Website https://remix-ide.readthedocs.io/en/latest/solidity_editor.html [erişim 22 Aralık 2020]. 
 
