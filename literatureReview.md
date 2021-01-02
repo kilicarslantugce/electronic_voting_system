@@ -84,8 +84,6 @@ bazı sahtekarlıklarla karşılaşılmaktadır. Demokratik süreç için en rah
 
 
 
-
-
 ## REFERENCES 
 
 **[1]** M. AKIN,"Elektronik Oy Verme Sistemlerinde Güvenlik: Deneyimler Ve Türkiye İçin Öneriler", Ekonometri ve İstatistik Sayı:3, 2006.
@@ -99,3 +97,9 @@ bazı sahtekarlıklarla karşılaşılmaktadır. Demokratik süreç için en rah
 **[5]** M. AKIN,"Elektronik Oy Verme Sistemlerinde Güvenlik: Deneyimler Ve Türkiye İçin Öneriler", pp. 39-42, Ekonometri ve İstatistik Sayı:3, 2006.
 
 **[6]** M. AKIN,"Elektronik Oy Verme Sistemlerinde Güvenlik: Deneyimler Ve Türkiye İçin Öneriler", pp. 42, Ekonometri ve İstatistik Sayı:3, 2006.
+
+
+
+
+
+
