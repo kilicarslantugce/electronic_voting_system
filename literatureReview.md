@@ -72,6 +72,29 @@ sadece bir olasılık olan bu sistemler gerçek seçimlerde kullanılarak öneml
 bazı sahtekarlıklarla karşılaşılmaktadır. Demokratik süreç için en rahatsız edici sahtekarlık türü de menfaat karşılığı ya da baskı altında oy kullanılmasıdır. Bunların dışında mührün yanlış basılması, başka tarafa çıkması gibi nedenlerle oylar geçersiz hale de gelebilmektedir. Elektronik oy verme sistemlerinde bu tür sakıncalar kolaylıkla giderilebilir. Ancak aktarıldığı üzere bu sistemlerin de kendilerine özgü güvenlik sorunları vardır. Sistemin kullanılmasının önündeki engellerden biri de ülkemizdeki bilgisayar okuryazarlığının düşük olmasıdır. Ancak böyle bir sistemin genel okuryazarlık oranı Türkiye’den çok düşük olan Hindistan’da  bile başarıyla kullanılmış olması ümit vericidir. Türkiye’deki seçimlerde elektronik oy verme sistemlerinin kullanılmasına karar verdikten sonra oy verme sürecinin yeniden düzenlenmesi gerekecektir. Bu süreç, seçimde kullanılacak aygıtların özelliklerinden seçim günü sandık kurullarının nasıl oluşturulacağına kadar çok sayıda öğeyi içermektedir.[6] 
 
 
+Blokchain tabanlı e-voiting üzerine hazırlanmış iki diğer makale ise M.Emin AYDIN tarafından 2018 yılında yazılmış olan "Blokzincir Tabanlı Oy Verme Sistemi Önerisi" ve yine 2018 yılında, Francesco Fusco'nun Maria Ilaria Lunesu'nun Filippo Eros Pani ve Andrea Pinna'nin hazırladığı  "Crypto-Voting, a blockchain based e-voting system" makaleleri incelenmiştir. Bu makalelerde blockchain teknolojisinin ne olduğu açıklanmış, avantaj ve dezavantajlarından bahsedilmiştir. Blokchain teknolojisinin e-voting için neden kullanılabildiğini açıklamıştır. Bu incelemeler sonucu;
+
+Blockchain bir kayıt aracıdır ve seçilen ağın kullanıcıları arasında şeffaf bir şekilde dağıtılan belgeleri kontrol eder. Herkese açık, sıralı ve zaman damgalı verileri içeren dijital küresel bir kayıt defteridir.
+
+Kaydedilen bilgiler bütün madenciler anlaşmadığı sürece silinemez. Hatta böyle bir durum olduğunda dahi eski zincir herhangi bir kişide bulunuyorsa silmeye çalışılan bu bilgilerin varlığı kanıtlanabilir. Ayrıca bir verinin değiştirilmesi bütün blockchain kriptolojik olarak bütünlüğünü bozar.[7]
+
+Blockchain sadece bir veri yapısı olarak herhangi bir yenilik sunmaz. İşlemleri bloklar halinde tutmak ve blokları zincirler halinde birbirine bağlamak Blockchaini icat edilmiş bir şey değildir. Bir Blockchain güvenli yapan şey bu blokların oluşturulma şeklidir. Blockchain madencileri arasında bir rekabet ortamı oluştuğu zaman blockchain güvenli olabilir.[8]
+
+Genellikle merkezi bir otorite tarafından kaydedilir, organize edilir sayılıp doğrulanırken blockchain tabanlı bir elektronik oylama sistemi kontrolleri merkezleştirebilir ve seçmenlerin oylarının bir kopyasını korurken bazı görevleri devralmasına neden olabilir. [9]
+Bunlar elektronik oylama sisteminde gayri meşru oyların ortadan kaldırılmasını, kayıtlı ve geçersiz bir kayıtla ilişkili herhangi bir sorun karşısında gerekli tedbirlerle oyu eklememelidir.
+
+Günümüzde şirketler ve yöntemler giderek daha hızlı ve kitlesel geri bildirim ve belge edinimine karşılık gelen kararlar için daha hızlı ihtiyaçlara gerek duyulmaktadır.  Kripto oylamada Blockchain teknolojisine dayalı bir sistemdir şirketlerin karar verme sürecinin basitleştirmek yararlı bir araçtır. Blockchain belirli bir veri tipolojisini kronolojik kaydeden dağıtılmış ve merkezi olmayan bir veri yapısıdır.
+
+Çalışmalarda blockchainin tarafsızlığının yanı sıra gizliliği de ön planda tutması güvenilirliğinin daha yüksek olması için bir etkendir.
+ Özellikle, Zcash1 gizliliği korumak için bir sistem uygulayan ve göndereni, alıcıyı ve mesajın içeriğini gizlemek için işlemleri kodlayan genel bir blockchain sistemidir. Veri bütünlüğünü garanti etmek, sahtekarlıkları ve Hileleri önlemek için Zcash1, ZK-SNARK adlı sıfır bilgi kanıtı kullanır[10]
+
+Blockchain sisteminde sidechain yan zincirler blok zincirini genişletir ve hem ana blok zincirine yazmaktan (maliyetleri ve başarısızlık risklerini azaltarak) hem de yeni bir para birimi oluşturma ihtiyacından kaçınarak yeni özelliklerin oluşturulmasına izin verir. Sidechain, belirli senkronizasyon kriterlerine göre birbirleriyle iletişim kuran bir ana blok zincirinin ve bir alt blok zincirinin kombine kullanımına dayanan bir sistem oluşturma olasılığına dayanır.[11]
+Kripto oylama sistemi anonimlik ve gizlilik gerekliliklerinden ödün vermeden erişim kontrolü garanti ettiği için blockchain sistemi kullanılmaktadır. Tercih edilen sistemin varsayımları ve teknolojileri 
+* Çift şeffaf ve halka açık bir teknolojinin oluşturulmasına izin veren güvenli ve güvenilir bir oylama sonuçlarını içeren defter
+* Seçmenlerin, denetim otoritelerinin ve adaylar, tüm oylama süreci ile ilgili sertifikalı, şeffaf ve doğrulanabilir bilgilere sahip olan adımlar
+
+Kripto oylama sistem seçim listelerinin otomatik yönetimini, kimlik sürecinin gelişmiş oylama gizliliği ile entegrasyonu ve oylama güvenliğini garanti etmek için otomatik ve güvenilir mekanizmalar gibi şu anda ele alınmayan yönleri kapsamaktadır.
+Sistemin ana potansiyeli üyelik koltuğundan uzakta yaşayan seçmenler için (örneğin, yurtdışındaki seçmenler) somut bir yararı temsil eden uzaktan oy kullanmasına izin vermektir. Kripto oylama sistemi sayesinde mobil cihazlar veya kişisel bilgisayarlar aracılığıyla yapılabilir.
 
 
 
@@ -98,6 +121,15 @@ bazı sahtekarlıklarla karşılaşılmaktadır. Demokratik süreç için en rah
 
 **[6]** M. AKIN,"Elektronik Oy Verme Sistemlerinde Güvenlik: Deneyimler Ve Türkiye İçin Öneriler", pp. 42, Ekonometri ve İstatistik Sayı:3, 2006.
 
+**[7]** M.Emin AYDIN, "BLOKZİNCİR TABANLI OY VERME SİSTEMİ ÖNERİSİ", pp. 20, 2018.
+
+**[8]** M.Emin AYDIN, "BLOKZİNCİR TABANLI OY VERME SİSTEMİ ÖNERİSİ", pp. 22, 2018
+
+**[9]** Francesco Fusco, Maria Ilaria Lunesu, Filippo Eros Pani and Andrea Pinna, "Crypto-Voting, a blockchain based e-voting system", "INTRODUCTION", 2018.
+
+**[10]** Francesco Fusco, Maria Ilaria Lunesu, Filippo Eros Pani and Andrea Pinna, "Crypto-Voting, a blockchain based e-voting system", "BACKGROUND AND RELATED WORK", 2018.
+
+**[11]** Francesco Fusco, Maria Ilaria Lunesu, Filippo Eros Pani and Andrea Pinna, "Crypto-Voting, a blockchain based e-voting system", "THE PROPOSED SYSTEM", 2018.
 
 
 
