@@ -42,7 +42,7 @@ class Blockchain(object):
                                                              # --> Boş bir zincir kullanıma hazır. Zincire eklenecek bloklar tanımlanır.
 
     def new_block(self, proof, previous_hash=None):
-        block = { --> Aşağıdaki özelliklere sahip bir JSON nesnesini açıklayan bir blok değişkeni tanımlanır.
+        block = {                                            # --> Aşağıdaki özelliklere sahip bir JSON nesnesini açıklayan bir blok değişkeni tanımlanır.
             'index': len(self.chain) + 1,                    # --> Blok zincirin uzunluğunna 1 eklenir. Bu ilkem tek bir bloğu referans almak için kullanılır.
             'timestamp': time(),                             # --> time () import edilerek, blok oluşturulduğunda damgalanır. Bu sayede kullanıcılar işlemlerinin zincir üzerinde                                                                    ne zaman onaylandığını kontrol edebilir.
             'transactions': self.pending_transactions,       # --> "pending" listesinde bulunan tüm işlemler yeni bloğa dahil edilir.
