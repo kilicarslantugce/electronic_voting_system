@@ -118,4 +118,4 @@ Solidity kodlayabilmek için Visual Studio Code ve online Etherum IDE olan Remix
 
 **[2]** Remix (2020). [online]. Website https://remix-ide.readthedocs.io/en/latest/solidity_editor.html [erişim 22 Aralık 2020]. 
 
-**[3]** Michael Chrupcala (2020). Website https://medium.com/coinmonks/python-tutorial-build-a-blockchain-713c706f6531 [erişim 30 Aralık 2020]
+**[3]** Michael Chrupcala (2020). [online]. Website https://medium.com/coinmonks/python-tutorial-build-a-blockchain-713c706f6531 [erişim 30 Aralık 2020]
