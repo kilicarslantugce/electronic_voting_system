@@ -10,14 +10,14 @@ Solidity programlama dilini ilk kez öğrendiğimiz için sıfırdan syntax ve k
 
 
 ```solidity
-pragma solidity ^0.5.17 ;                            # --> Yazdığımız kontratın hangi versiyon ile kodlanacağını bildirir.
+pragma solidity ^0.5.17 ;                            // --> Yazdığımız kontratın hangi versiyon ile kodlanacağını bildirir.
 
-contract Inbox {                                     # -->  Kontrat tanımladığımız ve isminin ne olduğunu bildiriyoruz.
+contract Inbox {                                     // -->  Kontrat tanımladığımız ve isminin ne olduğunu bildiriyoruz.
     
  string public message;
  
-constructor(string memory initialMessage) public {   # --> Şimdiye kadar bildiğimiz bir çok programlama dilinde constructor oluştururken
-                                                     # -->  class ile aynı ismi veriyorduk. Solidity de constructor oluşturmak için constructor kelimesi kullanılıyor.
+constructor(string memory initialMessage) public {   // --> Şimdiye kadar bildiğimiz bir çok programlama dilinde constructor oluştururken
+                                                     // -->  class ile aynı ismi veriyorduk. Solidity de constructor oluşturmak için constructor kelimesi kullanılıyor.
        
   message = initialMessage;
         
