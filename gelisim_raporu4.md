@@ -8,7 +8,7 @@ Oy verme ile ilgili bilgiler de bu dosyada saklanmıştır.
 - Migrations.sol dosyasında : Data migration işlemleri geçekleştirilmiştir. Bu işlemler; Veri taşıma, verileri seçme, hazırlama, çıkartma ve dönüştürme ve bir bilgisayar depolama sisteminden diğerine kalıcı olarak aktarma işlemidir.
 Ayrıca, taşınan verilerin tamlık için doğrulanması ve eski veri depolamasının hizmetten çıkarılması, tüm veri taşıma sürecinin bir parçası olarak kabul edilir.
 
-
+# İş Akışı Şeması
 
 
 
