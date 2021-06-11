@@ -10,7 +10,7 @@ Ayrıca, taşınan verilerin tamlık için doğrulanması ve eski veri depolamas
 
 # İş Akışı Şeması
 
-![oyVerme](https://user-images.githubusercontent.com/74213293/121672150-20eb0b00-cab8-11eb-8d23-e0e7a40497de.jpeg)
+![oyVerme](https://user-images.githubusercontent.com/74213293/121674384-aa034180-caba-11eb-8e96-7d47090cff9d.jpeg)
 
 
 # Oylama Sistemi İş Akışı
@@ -18,3 +18,13 @@ Ayrıca, taşınan verilerin tamlık için doğrulanması ve eski veri depolamas
 Seçim süresi boyunca yönetici seçimi başlatacaktır. Seçim başlatıldığında, aday listesi portalın ön ucuna gönderilir (bu, resmi makamların yetkili yerlerinde kurulur).Frontend, aday hakkında faydalı bilgiler görüntüleyebilir ve karar vermelerine yardımcı olabilir. Kullanıcı bilgileriyle birlikte şifrelenmiş oy, backend oylamayı başlatma yöntemine gönderilir. Bu oylama başlatma yöntemi, kullanıcıyı ID kullanarak doğrulayan ve kullanıcının henüz oy kullanmadığından emin olan hesap doğrulama yöntemini çağırır. Kullanıcı doğrulaması başarılı olursa, oyu Azure Blok Zinciri Hizmetine bir sözleşme olarak gönderen oy kullanma yöntemi çağrılır. Seçim sonunda en çok oyu alan aday seçilir.
 
 
+
+
+## Teknolojiler
+
+- Azure Blockchain
+- Python (Blockchain ile iletişim kurmak ve backend ve front end API çağrıları için)
+- Truffle (Akıllı sözleşmeler oluşturmak ve test etmek için araçlar sağlar)
+- Ganache (Localhost'ta test edebilmek üzere özel blockchain ağı oluşturma)
+- Flask (Web framework)
+- Docker (Portalın bulutta devreye alınması)
