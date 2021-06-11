@@ -18,6 +18,7 @@ Ayrıca, taşınan verilerin tamlık için doğrulanması ve eski veri depolamas
 Seçim süresi boyunca yönetici seçimi başlatacaktır. Seçim başlatıldığında, aday listesi portalın ön ucuna gönderilir (bu, resmi makamların yetkili yerlerinde kurulur).Frontend, aday hakkında faydalı bilgiler görüntüleyebilir ve karar vermelerine yardımcı olabilir. Kullanıcı bilgileriyle birlikte şifrelenmiş oy, backend oylamayı başlatma yöntemine gönderilir. Bu oylama başlatma yöntemi, kullanıcıyı ID kullanarak doğrulayan ve kullanıcının henüz oy kullanmadığından emin olan hesap doğrulama yöntemini çağırır. Kullanıcı doğrulaması başarılı olursa, oyu Azure Blok Zinciri Hizmetine bir sözleşme olarak gönderen oy kullanma yöntemi çağrılır. Seçim sonunda en çok oyu alan aday seçilir.
 
 
+![portal](https://user-images.githubusercontent.com/56029547/121675156-b5a33800-cabb-11eb-932c-732e71ff4b62.jpeg)
 
 
 ## Teknolojiler
